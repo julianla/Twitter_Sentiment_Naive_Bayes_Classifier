@@ -5,8 +5,7 @@ The training data consists of 1 600 000 tweets that are classified as either neg
 
 ## Usage
 
-First, download the training data, which is available here: [Sentiment140](http://help.sentiment140.com/for-students).
-Then, run the script in your command line using the following format:
+First, download the training data, which is available here: [Sentiment140](http://help.sentiment140.com/for-students). Unzip the folder and move the file `training.1600000.processed.noemoticon.csv` to your project folder. Then, run the script in your command line using the following format:
 
 `python NB.py Number_of_training_examples_you_want_to_use`
 
